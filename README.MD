@@ -31,7 +31,7 @@
 </p>
 
 <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Skill-Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,mongodb,mysql,docker,aws,gcp,redis,postman" /><br>
